@@ -1,4 +1,4 @@
-
+//this is the object class
 public class Person {
 
 	String officialName;
